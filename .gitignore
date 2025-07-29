@@ -1,0 +1,9 @@
+# Ignore all slang files
+
+*.lock
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.slangtorch*
