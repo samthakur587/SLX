@@ -1,4 +1,4 @@
-# SLX - Scalable Learning eXperiments
+# SLX 
 
 SLX is a high-performance deep learning framework built on top of PyTorch, designed for efficient tensor operations with support for custom shader-based kernels through Slang. It provides a clean, intuitive interface for building and training neural networks while enabling low-level optimization through custom GPU shaders.
 
