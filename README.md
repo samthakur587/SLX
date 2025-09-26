@@ -1,4 +1,9 @@
-# SLX 
+
+<div style="display: block;" align="center">
+    <img class="only-dark" width="60%" height="40%" src="https://github.com/samthakur587/SLX/blob/main/Geometric%20SLX%20Logo%20Design.png#gh-dark-mode-only"/>
+</div>
+
+
 
 SLX is a high-performance deep learning framework built on top of PyTorch, designed for efficient tensor operations with support for custom shader-based kernels through Slang. It provides a clean, intuitive interface for building and training neural networks while enabling low-level optimization through custom GPU shaders.
 
